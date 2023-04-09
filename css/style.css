@@ -443,13 +443,16 @@ p {
 .color-botones{
     background: #05004E;
 }
+
 .color-textobotones{
     color: #F9F8EB;
 }
 .color-textoModal{
     color:#05004E;
 }
-
+.color-body{
+    background: #FD5F00;
+}
 @media (max-width: 425px) {
     .class-add {
         display: none;
