@@ -129,8 +129,11 @@
 
 .pagina404 {
     background-image: url(https://img.freepik.com/vector-premium/fondo-pagina-comic-naranja-estilo-pop-art-espacio-vacio-plantilla-rayas-puntos-textura-efecto-semitono-ilustracion-vectorial_515038-1725.jpg?w=826);
-    background-repeat: no-repeat;
-    background-size: cover;
+  /*    background-repeat: no-repeat;
+    background-size: cover; */
+    height: 90vh;
+    
+    
 }
 
 
